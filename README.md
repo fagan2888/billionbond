@@ -26,7 +26,6 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 ##### Wallet          : [Wallet](https://wallet.billionbond.com/)
 #### Total supply      : 10.00000000
 #### Max supply        : 10.00000000
-#### Circulating       : 5.00000000 
 
 ## Exchange Platforms
 #### [BiteBTC](https://bitebtc.com/trade/xbb_btc) (XBB/BTC)
