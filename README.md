@@ -16,10 +16,10 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 ![BillionBond.com](https://billionbond.com/wp-content/uploads/2018/12/bb-logo.png)
 
 ## ASSET INFO
-##### Asset ID          : DbMjZG6DXZiqnkq56tj8qbVNgwy7kixeBAAtkYySxW8r            
-##### Name              : BillionBond                                             
-##### Ticker            : XBB          
-##### Issuer            : 3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty 
+##### Asset ID          : DbMjZG6DXZiqnkq56tj8qbVNgwy7kixeBAAtkYySxW8r
+##### Name              : BillionBond
+##### Ticker            : XBB
+##### Issuer            : 3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty
 
 
 ## Trade Pairs
