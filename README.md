@@ -40,6 +40,7 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 
 ## Market Info
 [CoinLib](https://coinlib.io/coin/XBB/BillionBond)
+
 [CoinGecko](https://www.coingecko.com/en/coins/billionbond)
 
 ### VOTE FOR BILLIONBOND (XBB) AT [https://vote.xbts.io](https://vote.xbts.io)
