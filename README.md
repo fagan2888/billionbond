@@ -20,9 +20,10 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 ##### Name              : BillionBond
 ##### Ticker            : XBB
 ##### Issuer            : 3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty
-
+##### Explorer          : [https://wavesexplorer.com/address/3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty](https://wavesexplorer.com/address/3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty)
 
 ## Trade Pairs
 #### [XBB/BTC](https://bitebtc.com/trade/xbb_btc)
 #### [XBB/ETH](https://bitebtc.com/trade/xbb_eth)
 #### [BillionBond/WAVES](https://client.wavesplatform.com/)
+
