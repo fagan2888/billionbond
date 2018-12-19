@@ -16,6 +16,6 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 ![BillionBond.com](https://billionbond.com/wp-content/uploads/2018/12/bb-logo.png)
 
 ## Trade Pairs
-#### [XBB/BTC] (https://bitebtc.com/trade/xbb_btc)
-#### [XBB/ETH] (https://bitebtc.com/trade/xbb_eth)
-#### [BillionBond/WAVES] (https://client.wavesplatform.com/)
+#### [XBB/BTC](https://bitebtc.com/trade/xbb_btc)
+#### [XBB/ETH](https://bitebtc.com/trade/xbb_eth)
+#### [BillionBond/WAVES](https://client.wavesplatform.com/)
