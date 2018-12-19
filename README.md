@@ -38,8 +38,14 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 #### [XBB/ETH](https://bitebtc.com/trade/xbb_eth)
 #### [BillionBond/WAVES](https://client.wavesplatform.com/)
 
+## Market Info
+[CoinLib](https://coinlib.io/coin/XBB/BillionBond)
+[CoinGecko](https://www.coingecko.com/en/coins/billionbond)
+
 ### VOTE FOR BILLIONBOND (XBB) AT [https://vote.xbts.io](https://vote.xbts.io)
 
 ### DISCLAIMER
 BillionBond (XBB) is Open Source and Decentralized, BillionBond can be used as a financial bond or commodity bond for infrastructures, real estates, any type of industrial security bond. 
+
+
 
