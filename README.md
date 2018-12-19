@@ -14,3 +14,8 @@ Billion Bond will support very high transaction volumes with fast verifications.
 The energy used to run the Bitcoin network could power more than 3.5 million US households, 1 million to run Ethereum. We think that’s completely unacceptable and unsustainable. Billion Bond will use a small fraction of the energy used to run other cryptocurrencies.
 
 ![BillionBond.com](https://billionbond.com/wp-content/uploads/2018/12/bb-logo.png)
+
+## Trade Pairs
+#### XBB/BTC
+#### XBB/ETH
+#### BillionBond/WAVES
