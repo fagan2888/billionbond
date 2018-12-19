@@ -25,8 +25,17 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 ##### Explorer          : [https://wavesexplorer.com/address/3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty](https://wavesexplorer.com/address/3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty)
 ##### Wallet          : [Wallet](https://wallet.billionbond.com/)
 
+## Exchange Platforms
+#### [BiteBTC](https://bitebtc.com/trade/xbb_btc) (XBB/BTC)
+#### [BiteBTC](https://bitebtc.com/trade/xbb_eth) (XBB/ETH)
+#### [Nanu.exchange](https://nanu.exchange/exchange#btc_xbb) (XBB/BTC)
+#### [Waves Platform](https://client.wavesplatform.com) (XBB/BTC, XBB/WAVES)
+
 ## Trade Pairs
 #### [XBB/BTC](https://bitebtc.com/trade/xbb_btc)
 #### [XBB/ETH](https://bitebtc.com/trade/xbb_eth)
 #### [BillionBond/WAVES](https://client.wavesplatform.com/)
+
+### VOTE FOR BILLIONBOND (XBB) AT [https://vote.xbts.io](https://vote.xbts.io)
+
 
