@@ -23,6 +23,7 @@ The energy used to run the Bitcoin network could power more than 3.5 million US 
 ##### Platform          : Waves
 ##### Issuer            : 3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty
 ##### Explorer          : [https://wavesexplorer.com/address/3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty](https://wavesexplorer.com/address/3P5asJHjX5r7a31Sjz74RUAyY2dhSVz8Gty)
+##### Asset Verified By : [Waves Platform](http://dev.pywaves.org/assets/DbMjZG6DXZiqnkq56tj8qbVNgwy7kixeBAAtkYySxW8r)
 ##### Wallet          : [Wallet](https://wallet.billionbond.com/)
 #### Total supply      : 10.00000000
 #### Max supply        : 10.00000000
