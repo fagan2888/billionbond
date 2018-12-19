@@ -1,0 +1,2 @@
+# billionbond
+BILLION BOND is a Digital Asset backed by Waves Blockchain Technology. BillionBond is open source and decentralized Bond token used to issue corporate and industrial sector wealth bonds and Insure bonds. BillionBond can send, receive, trade, invest in Gold ,Silver and Diamond and more. BillionBond can trade with all major cryptocurrencies Bitcoin and Waves. Its based on peer-to-peer and secure transactions using waves. BillionBond supply has only 10 BB Tokens and its non re-issuable tokens.
